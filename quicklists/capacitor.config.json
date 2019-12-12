@@ -1,0 +1,7 @@
+{
+  "appId": "com.soliseyoum.quicklist",
+  "appName": "quicklist",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
